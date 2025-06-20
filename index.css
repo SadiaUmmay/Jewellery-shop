@@ -53,4 +53,7 @@ margin: 0 auto;
     .banner2, .banner1{
         padding-left: 1rem;
     }
+    .shop-1-img{
+        height: 400px;
+    }
 }
